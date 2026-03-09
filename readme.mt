@@ -1,6 +1,6 @@
-#fundamentos de programacion 002D
+# fundamentos de programacion 002D
 
-##me presento, soy alexander
+## me presento, soy alexander
 
 ---
 
